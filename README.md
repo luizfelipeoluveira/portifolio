@@ -22,7 +22,7 @@ As seguintes tecnologias e ferramentas foram utilizadas no desenvolvimento:
 
 ## 🌐 Site publicado
 
-**Link de acesso:** [INSERIR LINK DO SITE PUBLICADO]
+**Link de acesso:**  (https://luizfelipeoluveira.github.io/portifolio/)
 
 ## ⚙️ Funcionamento do projeto
 
