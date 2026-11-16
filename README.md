@@ -75,7 +75,7 @@ Para evitar que o conteúdo do site ficasse escondido atrás da sidebar, foi apl
 
 ### Expansão e recolhimento do menu
 
-A funcionalidade foi implementada com JavaScript, utilizando os métodos `getElementById()`, `querySelector()` e `addEventListener()`.
+Com a ajuda da IA, a funcionalidade foi implementada com JavaScript, utilizando os métodos `getElementById()`, `querySelector()` e `addEventListener()`.
 
 O método `classList.toggle()` permite adicionar ou remover classes CSS conforme o usuário clica no botão.
 
